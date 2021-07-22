@@ -8,6 +8,6 @@ module.exports = {
   siteName: 'Gridsome',
   siteDescription:'',
   siteUrl: 'https://6110110107.github.io',
-  pathPrefix: '/grid_project/project',
+  pathPrefix: '/grid_project',
   plugins: []
 }
