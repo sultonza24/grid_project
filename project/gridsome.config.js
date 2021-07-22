@@ -7,7 +7,7 @@
 module.exports = {
   siteName: 'Gridsome',
   siteDescription:'',
-  pathPrefix: '/gridsome-vuetify',
+  pathPrefix: '/gridsome',
   siteUrl: 'https://6110110107.github.io',
   plugins: []
 }
